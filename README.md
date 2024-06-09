@@ -16,8 +16,11 @@ A classic Tic-Tac-Toe game built using React.js. The game includes options for b
 - CSS
 
 ## How to play
--**Single Player:** Select "Single Player" mode to play against the AI.
--**Multiplayer:** Select "Multiplayer" mode to play with a friend.
--Click on a cell to make your move.
--The game will automatically switch turns between players.
--The game will indicate the winner or if it's a draw.
+- **Single Player:** Select "Single Player" mode to play against the AI.
+- **Multiplayer:** Select "Multiplayer" mode to play with a friend.
+- Click on a cell to make your move.
+- The game will automatically switch turns between players.
+- The game will indicate the winner or if it's a draw.
+
+## Deployed
+- [**TIC-TAC-TOE**](https://tic-tac-toe-balasubramani-e.netlify.app/)
