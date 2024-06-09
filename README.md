@@ -1,8 +1,23 @@
-# React + Vite
+# Tic-Tac-Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A classic Tic-Tac-Toe game built using React.js. The game includes options for both single-player (against AI) and multiplayer modes.
 
-Currently, two official plugins are available:
+## Features
+- **Single Player Mode**: Play against an AI opponent.
+- **Multiplayer Mode**: Play against another human player.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Intuitive UI**: Easy-to-use interface with clear indications of the next move and game status.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- JavaScript
+- HTML
+- CSS
+
+## How to play
+-**Single Player:** Select "Single Player" mode to play against the AI.
+-**Multiplayer:** Select "Multiplayer" mode to play with a friend.
+-Click on a cell to make your move.
+-The game will automatically switch turns between players.
+-The game will indicate the winner or if it's a draw.
